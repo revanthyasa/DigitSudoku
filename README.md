@@ -24,3 +24,4 @@ User-Friendly Interface: The app is designed to be user-friendly and visually ap
 Backend API for Processing: The Django backend processes the uploaded images and integrates with PyTesseract for digit recognition while also handling the Sudoku-solving logic.
 
 This project offers a rich, interactive experience for Sudoku enthusiasts and provides practical applications in solving and playing Sudoku puzzles. Whether users prefer uploading and solving puzzles automatically or solving them manually, the app provides the tools and flexibility to enjoy Sudoku puzzles at their convenience.
+**Demo:** https://drive.google.com/file/d/1r6pig2X8nua_iO3yN3tAXh77bWgJ9bqW/view?usp=sharing
